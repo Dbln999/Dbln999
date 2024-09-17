@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DODO pizza clone<br>🌱 I’m currently improving my skills in NextJS, Spring Boot
+🔭 I’m currently working on DODO pizza clone: https://pizza-dbln.netlify.app<br>🌱 I’m currently improving my skills in NextJS, Spring Boot
 
 
 ## 🌐 Socials:
