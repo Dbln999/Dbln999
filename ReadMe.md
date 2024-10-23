@@ -4,16 +4,16 @@ Hello! I'm a passionate frontend developer with solid experience in building hig
 </br>
 💡 My development kit:</br>
 </br>
-📄FrontEnd:</br>
+📄 FrontEnd:</br>
 Frameworks: React/NextJS + TypeScript</br>
 State Management: Redux/Zustand</br>
 For CSS: Tailwind + Shadcn</br>
 </br>
-⚙️Backend:</br>
+⚙️ Backend:</br>
 Prisma</br>
 Spring Boot</br>
 </br>
-🐳Extra:</br>
+🐳 Extra:</br>
 Docker</br>
 
 ## 🌐 Socials:
