@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on DODO pizza clone: https://pizza-dbln.netlify.app<br>🌱 I’m improving my skills in NextJS, Spring Boot
+👨‍💻 Frontend Developer | React/Next.js | TypeScript | Tailwind CSS | Redux/Zustand
+
+Hello! I'm a passionate frontend developer with solid experience in building high-performance, responsive, and user-friendly web applications. I specialize in modern JavaScript frameworks and libraries, with a focus on delivering efficient and scalable solutions.
+
+💡 Here’s what I can offer you:
+
+React & Next.js Development: Expert in building fast and SEO-friendly web apps with React and Next.js. Whether it's a simple landing page or a complex dashboard, I've got you covered.
+TypeScript Integration: Strong understanding of TypeScript, ensuring your codebase is robust and maintainable.
+State Management: Proficient with both Redux and Zustand for handling complex application state, making sure your app remains fast and organized.
+Tailwind CSS + shadcn/ui: Crafting beautiful, responsive designs using Tailwind CSS, combined with the utility-first approach of Shadcn to make your UI shine.
+Database Interaction with Prisma: Seamless integration of databases using Prisma, ensuring efficient data fetching and mutation in full-stack applications.
+Docker: Competent with Docker for containerizing applications, making deployment a breeze.
+Figma to Code: Experienced in working with Figma designs, bringing pixel-perfect prototypes to life.
 
 
 ## 🌐 Socials:
