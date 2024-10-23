@@ -4,13 +4,13 @@ Hello! I'm a passionate frontend developer with solid experience in building hig
 
 💡 My development kit:
 
-React & Next.js Development: Expert in building fast web apps with React and Next.js. Whether it's a simple landing page or a complex dashboard, I've got you covered.\n
-TypeScript Integration: Strong understanding of TypeScript, ensuring your codebase is robust and maintainable.\n
-State Management: Proficient with both Redux and Zustand for handling complex application state, making sure your app remains fast and organized.\n
-Tailwind CSS + shadcn/ui: Crafting beautiful, responsive designs using Tailwind CSS, combined with the utility-first approach of Shadcn to make your UI shine.\n
-Database Interaction with Prisma: Seamless integration of databases using Prisma, ensuring efficient data fetching and mutation in full-stack applications.\n
-Docker: Competent with Docker for containerizing applications, making deployment a breeze.\n
-Figma to Code: Experienced in working with Figma designs, bringing pixel-perfect prototypes to life.\n
+React & Next.js Development: Expert in building fast web apps with React and Next.js. Whether it's a simple landing page or a complex dashboard, I've got you covered.<br/>
+TypeScript Integration: Strong understanding of TypeScript, ensuring your codebase is robust and maintainable.<br/>
+State Management: Proficient with both Redux and Zustand for handling complex application state, making sure your app remains fast and organized.<br/>
+Tailwind CSS + shadcn/ui: Crafting beautiful, responsive designs using Tailwind CSS, combined with the utility-first approach of Shadcn to make your UI shine.<br/>
+Database Interaction with Prisma: Seamless integration of databases using Prisma, ensuring efficient data fetching and mutation in full-stack applications.<br/>
+Docker: Competent with Docker for containerizing applications, making deployment a breeze.<br/>
+Figma to Code: Experienced in working with Figma designs, bringing pixel-perfect prototypes to life.<br/>
 
 
 ## 🌐 Socials:
