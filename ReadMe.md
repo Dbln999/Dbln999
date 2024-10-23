@@ -2,7 +2,7 @@
 
 Hello! I'm a passionate frontend developer with solid experience in building high-performance, responsive, and user-friendly web applications. I specialize in modern JavaScript|TypeScript frameworks and libraries, with a focus on delivering efficient and scalable solutions.
 </br>
-💡 My development kit:
+💡 My development kit:</br>
 Frameworks: React/NextJS + TypeScript</br>
 State Management: Redux/Zustand</br>
 For CSS: Tailwind + Shadcn</br>
