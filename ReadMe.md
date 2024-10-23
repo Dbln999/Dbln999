@@ -7,7 +7,13 @@ Hello! I'm a passionate frontend developer with solid experience in building hig
 Frameworks: React/NextJS + TypeScript</br>
 State Management: Redux/Zustand</br>
 For CSS: Tailwind + Shadcn</br>
-
+</br>
+Backend:</br>
+Prisma</br>
+Spring Boot</br>
+</br>
+Extra:</br>
+Docker</br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dbln99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniil-durnev-901b1a253) 
